@@ -3,9 +3,9 @@
 ## This project demonstrates practical Git workflows and version control best practices essential for DevOps and Cloud roles. 
 ## It covers real-world scenarios such as branching strategies, merge conflicts, commit management, and collaboration using GitLab and GitHub
 
-📂 DevOps Git Essentials
+###📂 DevOps Git Essentials
 │
-├── 📌 Project Overview
+###├── 📌 Project Overview
 │   └── Demonstrates practical Git workflows and version control best practices for DevOps and Cloud roles.
 │       Covers:
 │       ├── Branching strategies
