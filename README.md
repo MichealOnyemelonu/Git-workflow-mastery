@@ -1,3 +1,4 @@
+```
 📌 Project Overview
 └── Demonstrates practical Git workflows and version control best practices for DevOps and Cloud roles.
 ├── Branching strategies
@@ -35,4 +36,6 @@
 └──
 ├── Collaboration: Working with multiple branches and merge requests
 ├── Automation readiness: Git skills are essential for CI/CD pipelines
-└── Infrastructure as Code: GitOps relies on strong Git fundamentals
+└── Infrastructure as Code: GitOps relies on strong Git fundamentals 
+
+```
